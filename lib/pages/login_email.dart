@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_firebase/main.dart';
@@ -38,7 +36,7 @@ class _LoginEmailState extends State<LoginEmail> {
               const FlutterLogo(size: 120),
               const SizedBox(height: 20),
               const Text(
-                'Welcome \n Kissyin Syahbinar',
+                'Welcome \n Alifia Shofa Nabilah',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
               ),
