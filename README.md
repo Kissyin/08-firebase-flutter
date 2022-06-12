@@ -6,8 +6,16 @@ NIM     : 2031710091 <br>
 
 ## Hasil
 
+<span>
 <img src="assets/1.png" width="300"> 
-<img src="assets/2.png" width="300"> <br>
+</span>
+<span>
+<img src="assets/2.png" width="300"> 
+</span>
+<span>
 <img src="assets/3.png" width="300"> 
+</span>
+<span>
 <img src="assets/4.png" width="300">
+</span>
 
