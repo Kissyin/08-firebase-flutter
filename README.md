@@ -1,5 +1,5 @@
 # flutter_firebase
-<br> Nama    : Kissyin Syahbinar <br>
-<br> Kelas   : MI 2C <br>
-<br> NIM     : 2031710091 <br>
+Nama    : Kissyin Syahbinar
+Kelas   : MI 2C
+NIM     : 2031710091 
 ## Getting Started
