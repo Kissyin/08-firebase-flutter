@@ -36,7 +36,7 @@ class _LoginEmailState extends State<LoginEmail> {
               const FlutterLogo(size: 120),
               const SizedBox(height: 20),
               const Text(
-                'Welcome \n Alifia Shofa Nabilah',
+                'Welcome \n Kissyin Syahbinar',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
               ),
