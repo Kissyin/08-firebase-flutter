@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_firebase/pages/login_page.dart';
 import 'package:flutter_firebase/sign_in.dart';
 
-// Aria Putra Pamungkas (2031710132)
+// Kissyin Syahbinar (2031710091)
 class FirstScreen extends StatelessWidget {
   const FirstScreen({Key? key}) : super(key: key);
 

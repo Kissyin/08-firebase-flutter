@@ -5,7 +5,7 @@ import 'package:flutter_firebase/pages/home_screen.dart';
 import 'package:flutter_firebase/pages/login_email.dart';
 import 'package:flutter_firebase/sign_in.dart';
 
-// Aria Putra Pamungkas (2031710132)
+// Kissyin Syahbinar (2031710091)
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
 
